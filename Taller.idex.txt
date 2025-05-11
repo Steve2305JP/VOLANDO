@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Viaje por Europa </title>
+</head>
+
+<body background="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\portada.jpg">
+
+<table border="8" width="95%" align="center"  cellpadding="10">
+<tr><td>
+
+<h1 align="center"><font face="Comic Sans MS" color="blue" size="7">✈️ VIAJA POR EUROPA CON TU MEJOR GUIA 🌍</font></h1>
+<h2 align="center"><font face="Times New Roman" color="green" size="5"><i>*Un recorrido de ensueño por las ciudades más icónicas</i></font></h2>
+
+<center>
+<img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\europa.jpg">
+</center>
+
+<p align="center">──────────────────────────────</p>
+
+<p align="center"><font face="Comic Sans MS" size="4" color="black">
+<i>Desde las luces de París hasta los canales de Venecia,<br>
+este viaje será una aventura inolvidable.</i></font></p>
+
+<p align="center">──────────────────────────────</p>
+
+<h2 align="center"><font color="purple">🗺️ ITINERARIO PARA TI, VIAJERO 🗺️</font></h2>
+
+
+<p><font size="5" color="black"><sup>1.</sup> <b>París, Francia</b> – Es conocida como la Ciudad del Amor y la capital de la elegancia. Desde su majestuosa Torre Eiffel hasta las obras maestras del Museo del Louvre, cada rincón de la ciudad respira arte, historia y romance. Pasear por el río Sena al atardecer, disfrutar un café en Montmartre o contemplar la Catedral de Notre Dame hacen de París una experiencia inolvidable.</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\paris.jpg"></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\pira.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\comida.jpg"></td>
+</tr>
+</table>
+
+<!-- AMSTERDAM -->
+<p><font size="5" color="gray"><sup>2.</sup> <b>Ámsterdam, Países Bajos</b> – Es una ciudad encantadora, famosa por sus canales serenos, flores coloridas y bicicletas que recorren cada calle. Explorar sus museos como el Rijksmuseum o la Casa de Ana Frank, recorrer los barrios antiguos, o relajarte en un paseo en barco por los canales, hace de esta ciudad una parada imperdible en Europa.
+
+</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\jardin.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\casas.jpg"></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\bar.jpg"></td>
+</tr>
+</table>
+
+<!-- BERLÍN -->
+<p><font size="5" color="black"><sup>3.</sup> <b>Berlín, Alemania</b> – Es una ciudad moderna y vibrante que conserva cicatrices de su historia con orgullo. Visita el Muro de Berlín y la Puerta de Brandeburgo, descubre su escena artística underground, y déjate llevar por la energía de sus barrios multiculturales. Es un destino que combina cultura, historia, innovación y diversidad.</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\mura.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\uni.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\rio.jpg" ></td>
+</tr>
+</table>
+
+<!-- PRAGA -->
+<p><font size="5" color="gray"><sup>4.</sup> <b>Praga, República Checa</b> – Es una joya medieval que parece salida de un cuento de hadas. Sus calles empedradas, castillos góticos y la magia del Reloj Astronómico hacen que perderse en esta ciudad sea una delicia. El Puente de Carlos y el Castillo de Praga te transportan a otra época, donde cada rincón tiene una historia que contar.</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\plaza.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\rios.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\reloj.jpg" ></td>
+</tr>
+</table>
+
+<!-- VENECIA -->
+<p><font size="5" color="black"><sup>5.</sup> <b>Venecia, Italia</b> – Es una ciudad flotante única en el mundo, con sus románticos canales, góndolas que se deslizan lentamente y arquitectura renacentista que parece suspendida en el tiempo. Explora la Plaza de San Marcos, cruza el Puente de los Suspiros y prueba un gelato mientras navegas entre sus mágicas aguas.</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\barco.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\barcos.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\venecia.jpg" ></td>
+</tr>
+</table>
+
+<!-- BARCELONA -->
+<p><font size="5" color="gray"><sup>6.</sup> <b>Barcelona, España</b> – Es una explosión de colores, sabores y formas. Desde las obras maestras de Gaudí como la Sagrada Familia hasta sus animadas playas del Mediterráneo, la ciudad vibra con vida. Disfruta sus tapas, pasea por Las Ramblas, visita el Parque Güell y sumérgete en una mezcla única de cultura, arte y diversión.</font></p>
+<table align="center">
+<tr>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\iglesia.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\plazas.jpg" ></td>
+  <td><img src="C:\Users\HUAWEI\Desktop\Pagina Web\imagenes\barcelona.jpg" ></td>
+</tr>
+</table>
+
+<p align="center">──────────────────────────────</p>
+
+<!-- MOMENTOS -->
+<h3 align="center"><font face="Comic Sans MS" color="fuchsia">📸 LOS MOMENTOS QUE MÁS RECORDARÁS 📸</font></h3>
+<h4 align="center"><font color="red">✨ Noche iluminada en la Torre Eiffel</font></h4>
+<h4 align="center"><font color="orange">✨ Atardecer en los canales de Ámsterdam</font></h4>
+<h4 align="center"><font color="purple">✨ Pizza frente al Gran Canal de Venecia</font></h4>
+
+<p align="center"><font size="5" color="blue"><i>“Viajar es vivir dos veces.”</i></font></p>
+
+<p align="center">──────────────────────────────</p>
+
+<!-- PIE DE PÁGINA -->
+<p align="center"><font color="navy" size="3">
+Created by Steve Cárdenas | Viaja por Europa - Recuerdos inolvidables 🌍✈️
+</font></p>
+
+</td></tr>
+</table>
+
+</body>
+</html>
